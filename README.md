@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Computer Engineer student at Florida Atlantic University, working in the WE THINK AI hands-on enable Lab. I liek creativity and I am a part of mu;ltiple Art clubs and activities. Current Senator for NSBE FAU Chapter for the year 2026.
+Computer Engineer student at Florida Atlantic University, working in the WE THINK AI hands-on enable Lab. I like creativity and I am a part of multiple Art clubs and activities. Current Senator for NSBE FAU Chapter for the year 2026.
 
 🔭 &nbsp;I'm currently working on **Py-Crawler  Robot programming.**  
 🌱 &nbsp;I'm currently learning **Computer Architecture, Design of Digital System, Data Structure and Algorithm Analysis.**  
